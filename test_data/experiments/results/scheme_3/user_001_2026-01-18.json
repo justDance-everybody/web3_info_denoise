@@ -1,0 +1,149 @@
+{
+  "selected_news": [
+    {
+      "n": 10,
+      "src": "The Block Beats",
+      "t": "Coinbase比特币溢价指数已连续3日处于负溢价，暂报-0.0397%",
+      "value_type": "explicit",
+      "reason": "Coinbase溢价指数是重要的市场情绪指标，负溢价可能预示着美国市场卖压增大，对短线交易者有直接参考价值。"
+    },
+    {
+      "n": 79,
+      "src": "The Block Beats",
+      "t": "若比特币突破9.7万美元，主流CEX累计空单清算强度将达6.45亿",
+      "value_type": "explicit",
+      "reason": "清算数据直接影响短线波动，用户需要密切关注，以便调整仓位或捕捉机会。"
+    },
+    {
+      "n": 81,
+      "src": "The Block Beats",
+      "t": "分析：比特币涨至近98,000美元后出现抛压，年初低点入场多头可考虑获利了结",
+      "value_type": "explicit",
+      "reason": "市场分析对短线交易者有直接指导意义，获利了结的建议值得关注。"
+    },
+    {
+      "n": 123,
+      "src": "The Block Beats",
+      "t": "Meteora过去24小时协议收入超越Pump.fun",
+      "value_type": "explicit",
+      "reason": "协议收入变化是衡量市场热度和资金流向的重要指标，Meteora的崛起可能预示着新的套利机会。"
+    },
+    {
+      "n": 2,
+      "src": "The Block Beats",
+      "t": "资深投资者Dan Tapiero：比特币本轮周期将涨至18万美元",
+      "value_type": "implicit",
+      "reason": "Dan Tapiero的观点虽然是宏观分析，但其对基础设施和稳定币的关注，以及对全球货币政策转变的解读，间接影响了用户对长期策略的判断，需要关注。"
+    },
+    {
+      "n": 17,
+      "src": "Cointelegraph",
+      "t": "Ethereum validator exit queue falls to zero as staking demand soars",
+      "value_type": "implicit",
+      "reason": "以太坊质押需求的激增，会影响ETH的供需关系，进而影响用户持仓的策略，需要关注。"
+    },
+    {
+      "n": 1,
+      "src": "The Block Beats",
+      "t": "Sonic：已销毁超1602万枚未领取的第一季空投S代币",
+      "value_type": "blindspot",
+      "reason": "上游依赖盲区：用户可能关注Sonic生态，但未关注S代币的销毁机制。S代币销毁会影响流通量，进而影响用户在Sonic生态中的套利策略。"
+    },
+    {
+      "n": 4,
+      "src": "The Block Beats",
+      "t": "TRUMP团队地址已将价值200万美元TRUMP转入Binance",
+      "value_type": "blindspot",
+      "reason": "规则改变者盲区：Meme币团队的资金动向可能预示着项目未来的发展方向，进而影响用户对相关代币的套利策略。"
+    },
+    {
+      "n": 5,
+      "src": "The Block Beats",
+      "t": "Pump.fun已累计回购价值约2.5亿美元PUMP代币",
+      "value_type": "blindspot",
+      "reason": "上游依赖盲区：Pump.fun的回购行为会影响PUMP代币的流通量和价格，进而影响用户在Pump.fun上的套利策略。"
+    },
+    {
+      "n": 6,
+      "src": "The Block Beats",
+      "t": "Binance：SENT首发认购中每位用户申购上限为3枚BNB",
+      "value_type": "blindspot",
+      "reason": "机会成本盲区：Binance Launchpad项目可能带来新的套利机会，用户需要关注，以免错过。"
+    },
+    {
+      "n": 11,
+      "src": "CoinDesk",
+      "t": "Bitcoin to $180,000, stablecoins to soar in 2026, investor Dan Tapiero predicts",
+      "value_type": "blindspot",
+      "reason": "上游依赖盲区：Tapiero的预测，稳定币的崛起，可能影响预测市场协议的资金流向和套利策略。"
+    },
+    {
+      "n": 13,
+      "src": "Cointelegraph",
+      "t": "Vitalik calls for a ‘garbage collection’ function to stop Ethereum bloat",
+      "value_type": "blindspot",
+      "reason": "规则改变者盲区：Vitalik对以太坊的担忧，可能影响以太坊的长期发展，进而影响用户对基于以太坊的协议的套利策略。"
+    },
+    {
+      "n": 16,
+      "src": "Cointelegraph",
+      "t": "China-led CBDC project mBridge tops $55B in cross-border payments",
+      "value_type": "blindspot",
+      "reason": "规则改变者盲区：mBridge的发展可能改变跨境支付的格局，进而影响用户对相关资产的套利策略。"
+    },
+    {
+      "n": 18,
+      "src": "Cointelegraph",
+      "t": "Adapt or die: Solana Labs CEO opposes Buterin’s approach to blockchain longevity",
+      "value_type": "blindspot",
+      "reason": "规则改变者盲区：Solana Labs CEO的观点，可能影响Solana生态的发展，进而影响用户对Solana上项目的套利策略。"
+    },
+    {
+      "n": 23,
+      "src": "CoinDesk",
+      "t": "Lack of liquidity is a growing concern in crypto, says Auros' Jason Atkins",
+      "value_type": "blindspot",
+      "reason": "上游依赖盲区：流动性问题是影响套利策略的重要因素，用户需要关注。"
+    },
+    {
+      "n": 25,
+      "src": "CoinDesk",
+      "t": "Crypto trading platform with CZ as advisor sees sudden $2 billion volume surge on 'airdrop' hype",
+      "value_type": "blindspot",
+      "reason": "机会成本盲区：交易量激增可能预示着新的套利机会，用户需要关注。"
+    },
+    {
+      "n": 26,
+      "src": "CoinDesk",
+      "t": "How tokenized assets could become a $400 billion market in 2026",
+      "value_type": "blindspot",
+      "reason": "上游依赖盲区：Tokenized assets的发展，可能影响用户对相关资产的套利策略。"
+    },
+    {
+      "n": 62,
+      "src": "@Twitter Bundle 1",
+      "t": "sentient x kaito airdrop is the final chapter of info fi let’s see if the last one can be the best one.",
+      "value_type": "blindspot",
+      "reason": "机会成本盲区：Airdrop可能带来新的套利机会，用户需要关注。"
+    },
+    {
+      "n": 125,
+      "src": "The Block Beats",
+      "t": "Wagyu创始人发行个人Meme币FROG：已花费20万美元购入总供应量的95%，与平台代币FWOG无关",
+      "value_type": "blindspot",
+      "reason": "规则改变者盲区：Wagyu创始人发行Meme币，可能影响Fwog.fun平台代币FWOG的未来，进而影响用户对相关项目的套利策略。"
+    },
+    {
+      "n": 206,
+      "src": "CoinDesk",
+      "t": "Large bitcoin holders buy the most coins since the FTX collapse of 2022",
+      "value_type": "blindspot",
+      "reason": "上游依赖盲区：巨鲸的买入行为，可能预示着市场情绪的变化，进而影响用户对相关资产的套利策略。"
+    }
+  ],
+  "scheme": "scheme_3",
+  "user": "user_001",
+  "date": "2026-01-18",
+  "total_news_count": 438,
+  "selected_count": 20
+}

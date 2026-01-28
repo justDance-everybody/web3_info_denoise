@@ -1,0 +1,149 @@
+{
+  "selected_news": [
+    {
+      "n": 5,
+      "src": "The Block Beats",
+      "t": "Pump.fun已累计回购价值约2.5亿美元PUMP代币 | BlockBeats 消息，1 月 18 日，据 fees.pump.fun 数据显示，Pump.fun 昨日花费 8751 枚 SOL（约 126.7 万美元）回购 4.313 亿枚 PUMP。自 7 月 15 日开始回购 PUMP 以来，已累计回购价值约 2.5 亿美元 PUMP 代币，已使总流通供应量减少 19.449%。",
+      "value_type": "explicit",
+      "reason": "Pump.fun 的回购行为直接影响 PUMP 代币的流通量，对关注链上流动性异动的用户具有明确的套利价值。数据清晰，可作为交易决策参考。"
+    },
+    {
+      "n": 8,
+      "src": "The Block Beats",
+      "t": "某巨鲸5倍做空DASH和10倍做多DOGE，总持仓浮亏约330万美元 | BlockBeats 消息，1 月 18 日，据 Onchain Lens 监测，「此前出售 255 枚 BTC」巨鲸 5 倍做空 DASH 和 10 倍做多 DOGE，该巨鲸仍持有 BTC、ETH 和 SOL 的多头头寸，目前价值 4.57 亿美元，浮动亏损 330 万美元。",
+      "value_type": "explicit",
+      "reason": "巨鲸的持仓变动是重要的链上异动信号，结合杠杆倍数，对短线套利策略有直接参考价值。浮亏信息也提供了风险评估的依据。"
+    },
+    {
+      "n": 10,
+      "src": "The Block Beats",
+      "t": "Coinbase比特币溢价指数已连续3日处于负溢价，暂报-0.0397% | BlockBeats 消息，1 月 18 日，据 Coinglass 数据，Coinbase 比特币溢价指数已连续 3 日处于负溢价，暂报-0.0397%。过去 30 日，其中 28 日处于负溢价。BlockBeats 注：Coinbase 比特币溢价指数用于衡量 Coinbase（美国主流交易平台）上的比特币价格相对于全球市场平均价格的差异。该指数是观察美国市场资金流动、机构投资热度与市场情绪变化的重要指标。正溢价表示 Coinbase 价格高于全球均价，通常意味着：美国市场买盘强劲，机构或合规资金积极入场，美元流动性充裕、投资情绪偏乐观。负溢价表示 Coinbase 价格低于全球均价，通常反映：美国市场卖压较大，投资者风险偏好下降，市场避险情绪升温或资金外流。",
+      "value_type": "explicit",
+      "reason": "Coinbase 溢价指数是重要的市场情绪指标，负溢价可能预示着套利机会。提供的数据和解释对用户判断市场方向有直接帮助。"
+    },
+    {
+      "n": 11,
+      "src": "CoinDesk",
+      "t": "Bitcoin to $180,000, stablecoins to soar in 2026, investor Dan Tapiero predicts",
+      "value_type": "implicit",
+      "reason": "预测市场观点，虽然不是直接的链上数据，但对用户判断市场情绪和长期策略有参考价值。预测价格对用户有一定吸引力。"
+    },
+    {
+      "n": 1,
+      "src": "The Block Beats",
+      "t": "Sonic：已销毁超1602万枚未领取的第一季空投S代币 | BlockBeats 消息，1 月 18 日，Sonic 表示，「按照计划，通过完全无需许可的智能合约执行，成功销毁 16,027,929.41 枚 S，这些代币为未领取的第一季空投分配。",
+      "value_type": "blindspot",
+      "reason": "代币销毁事件对代币的流通量有影响，可能影响价格。虽然不是直接的套利机会，但对关注代币经济模型的用户有价值。"
+    },
+    {
+      "n": 4,
+      "src": "The Block Beats",
+      "t": "TRUMP团队地址已将价值200万美元TRUMP转入Binance | BlockBeats 消息，1 月 18 日，据 Onchain Lens 监测，Meme 币 TRUMP 团队地址已将 381,000 枚 TRUMP（价值 200 万美元）转入 Binance。",
+      "value_type": "explicit",
+      "reason": "Meme币团队的转账行为，可能预示着抛售或市场操作，对关注meme币的短线交易者有参考价值。"
+    },
+    {
+      "n": 6,
+      "src": "The Block Beats",
+      "t": "Binance：SENT首发认购中每位用户申购上限为3枚BNB | BlockBeats 消息，1 月 18 日，Binance Wallet 公布 Sentient (SENT) Pre-TGE 首发公售详情，在首发认购活动期间，用户可通过 Binance Wallet 认购 SENT 代币的分配额度。认购采用超额认购模式，每位用户最多可存入 3 枚 BNB。代币分配将根据所有参与者存入的 BNB 总量按比例进行。认购期结束后，用户可在 Binance 钱包内的 BNB 智能链（BSC）上领取代表其 SENT 代币分配额的密钥（Key），领取操作需在首发认购活动页面完成。领取密钥时，任何超额存入的 BNB 将被自动退还。SENT 代币将于 TGE 当日直接空投至用户的 Binance Alpha 账户，届时用户可使用 Alpha 限价单进行交易。",
+      "value_type": "explicit",
+      "reason": "Binance 新币认购信息，对关注一级市场和空投机会的用户有直接价值。提供参与方式和细节。"
+    },
+    {
+      "n": 9,
+      "src": "The Block Beats",
+      "t": "Binance Alpha将于1月20日上线Acurast(ACU)，符合条件用户可申领空投 | BlockBeats 消息，1 月 18 日，Binance Alpha 将于 1 月 20 日上线 Acurast (ACU)。符合条件的用户可于 Alpha 交易开放后，前往 Alpha 活动页面使用 Alpha 积分领取空投。具体详情将另行公布。",
+      "value_type": "explicit",
+      "reason": "Binance Alpha 上线新币并提供空投，对关注一级市场和空投机会的用户有直接价值。"
+    },
+    {
+      "n": 18,
+      "src": "Cointelegraph",
+      "t": "Adapt or die: Solana Labs CEO opposes Buterin’s approach to blockchain longevity | Solana Labs CEO Anatoly Yakovenko said Solana fees could fund AI-assisted development to write and improve Solana’s codebase in the future.",
+      "value_type": "implicit",
+      "reason": "Solana 创始人对以太坊的看法，可能影响用户对不同公链的投资策略。对关注不同公链的用户有参考价值。"
+    },
+    {
+      "n": 25,
+      "src": "CoinDesk",
+      "t": "Crypto trading platform with CZ as advisor sees sudden $2 billion volume surge on 'airdrop' hype",
+      "value_type": "implicit",
+      "reason": "交易平台交易量激增，可能与空投炒作有关，对关注空投和交易量的用户有参考价值。"
+    },
+    {
+      "n": 26,
+      "src": "CoinDesk",
+      "t": "How tokenized assets could become a $400 billion market in 2026",
+      "value_type": "implicit",
+      "reason": "市场预测，对关注长期趋势和投资策略的用户有参考价值。"
+    },
+    {
+      "n": 27,
+      "src": "CoinDesk",
+      "t": "Popular burger joint Steak ’n Shake buys $10 million bitcoin",
+      "value_type": "implicit",
+      "reason": "传统企业购买比特币，对市场情绪和机构入场有一定参考价值。"
+    },
+    {
+      "n": 79,
+      "src": "The Block Beats",
+      "t": "若比特币突破9.7万美元，主流CEX累计空单清算强度将达6.45亿 | BlockBeats 消息，1 月 18 日，据 Coinglass 数据，若比特币突破 9.7 万美元，主流 CEX 累计空单清算强度将达 6.45 亿。反之，若比特币跌破 9.3 万美元，主流 CEX 累计多单清算强度将达 7.52 亿。BlockBeats 注：清算图并不是展示精确的待清算的合约数目，或者精确的被清算的合约价值。清算图上的柱子展示的是其实是每个清算簇相对临近清算簇的重要性，即强度。因此，清算图展现的是标的价格达到某个位置会被影响到什么程度。更高的「清算柱」表示价格到了之后将会因为流动性浪潮产生更加强烈的反应。",
+      "value_type": "explicit",
+      "reason": "清算数据对判断市场风险和潜在的爆仓机会有直接价值，对短线交易者有参考意义。"
+    },
+    {
+      "n": 81,
+      "src": "The Block Beats",
+      "t": "分析：比特币涨至近98,000美元后出现抛压，年初低点入场多头可考虑获利了结 | BlockBeats 消息，1 月 18 日，加密交易指标分析平台 CoinKarma 发文表示，「BTC 本周一度涨至接近 98,000 美元，但当接近该价位时，市场出现了近期几周内最明显的抛压，导致价格小幅回落。不过，总体买卖双方的流动性尚未出现明显失衡，仍保持相对平衡。其他关键市场指标尚未出现明确信号。基于当前情况，年初相对低点入场的多头持仓者可考虑获利了结，可选择全部或部分平仓，并等待更清晰的信号后再重新入场。」",
+      "value_type": "implicit",
+      "reason": "市场分析师的观点，对短线交易者有参考价值，提示获利了结的时机。"
+    },
+    {
+      "n": 123,
+      "src": "The Block Beats",
+      "t": "Meteora过去24小时协议收入超越Pump.fun | BlockBeats 消息，1 月 18 日，据 Defillama 数据，Meteora 过去 24 小时收入达 133 万美元，超越 Pump.fun 过去 24 小时的 116 万美元收入，仅次于 Tether（1645 万美元）和 Circle（660 万美元）。",
+      "value_type": "implicit",
+      "reason": "协议收入对比，对关注协议基本面和流动性的用户有参考价值。"
+    },
+    {
+      "n": 124,
+      "src": "The Block Beats",
+      "t": "Arthur Hayes从Anchorage Digital收到价值9.75万美元ETHFI | BlockBeats 消息，1 月 18 日，据 Onchain Lens 监测，Arthur Hayes 从 Anchorage Digital 收到了 13.27 万枚 ETHFI，价值 9.75 万美元。",
+      "value_type": "explicit",
+      "reason": "知名交易员的链上转账，可能预示着市场动向，对关注市场情绪和交易策略的用户有参考价值。"
+    },
+    {
+      "n": 16,
+      "src": "Cointelegraph",
+      "t": "China-led CBDC project mBridge tops $55B in cross-border payments | In 2024, the Bank for International Settlements stepped back from mBridge, seeking to distance itself from sanctions-related speculation surrounding the platform.",
+      "value_type": "blindspot",
+      "reason": "CBDC 项目的进展，对关注宏观和合规风险的用户有价值，但可能被用户忽视。"
+    },
+    {
+      "n": 17,
+      "src": "Cointelegraph",
+      "t": "Ethereum validator exit queue falls to zero as staking demand soars | The massive staking inflows are strengthening ETH’s supply-demand dynamic, potentially setting the stage for upward price momentum this year.",
+      "value_type": "implicit",
+      "reason": "以太坊质押数据，对关注以太坊生态和长期投资策略的用户有参考价值。"
+    },
+    {
+      "n": 205,
+      "src": "@Twitter Bundle 2",
+      "t": "@iamjosephyoung: this week in ethereum > ATH: month-over-month retained active addresses > ATH: daily transactions (2,595,176) > ATH: 30%+ of entire ETH supply staked > ATH: new wallets on ethereum > Standard Chartered adjusts ETH prediction upwards > ATH: transacting users onwards.",
+      "value_type": "implicit",
+      "reason": "以太坊链上数据，对关注以太坊生态的用户有参考价值。"
+    },
+    {
+      "n": 23,
+      "src": "CoinDesk",
+      "t": "Lack of liquidity is a growing concern in crypto, says Auros' Jason Atkins",
+      "value_type": "implicit",
+      "reason": "流动性问题是市场的重要风险因素，对关注市场风险的用户有参考价值。"
+    }
+  ],
+  "scheme": "scheme_5",
+  "user": "user_001",
+  "date": "2026-01-18",
+  "total_news_count": 438,
+  "selected_count": 20
+}
