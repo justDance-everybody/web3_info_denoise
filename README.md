@@ -54,19 +54,23 @@
 
 **不是拍脑袋，是 75 组科学实验验证。**
 
-| 实验规模 | 数据 |
-|---------|------|
+![技术架构与实验成果](./assets/test-brief.png)
+
+### 实验规模
+
+| 维度 | 数据 |
+|------|------|
 | 筛选架构 | 5 种完全不同的设计 |
 | 用户画像 | 5 种差异化用户类型 |
 | 信息数据 | 2,373 条真实 Web3 资讯 |
 | 实验总数 | **75 组完整实验** |
 
-### 效果验证
+### 量化成果
 
 | 指标 | 改善幅度 |
 |------|---------|
-| 位置偏差（AI 倾向选前面的内容） | **降低 80%** |
-| 有价值信息发现率 | **提升 192%** |
+| 有价值信息发现率 | **↑ 192%** |
+| 位置偏差 | **↓ 80%** |
 | 价值提取效率 | **76.91%** |
 
 > 详细数据和方法论见 [TECHNICAL_APPENDIX_FOR_HACKATHON.md](./TECHNICAL_APPENDIX_FOR_HACKATHON.md)
@@ -109,23 +113,13 @@ docker compose up -d
 
 ---
 
-## 项目结构
-
-```
-├── bot/                    # Telegram Bot 核心代码
-├── test_data/              # 实验数据样本（可验证）
-├── TECHNICAL_APPENDIX_FOR_HACKATHON.md   # 技术验证文档
-├── EXPERIMENT_REPORT.md    # 详细实验报告
-└── 产品需求文档_PRD_Final.md
-```
-
----
-
 ## 文档
 
-- [技术验证文档](./TECHNICAL_APPENDIX_FOR_HACKATHON.md) - 75 组实验的完整记录
-- [实验报告](./EXPERIMENT_REPORT.md) - 详细技术分析
-- [实验数据](./test_data/) - 原始数据，欢迎验证
+| 文档 | 说明 |
+|------|------|
+| [技术验证文档](./TECHNICAL_APPENDIX_FOR_HACKATHON.md) | 75 组实验的完整记录 |
+| [实验报告](./EXPERIMENT_REPORT.md) | 详细技术分析 |
+| [实验数据](./test_data/) | 原始数据，欢迎验证 |
 
 ---
 
