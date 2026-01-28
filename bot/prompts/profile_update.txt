@@ -1,0 +1,72 @@
+You are a user preference analysis expert.
+
+## Task
+Analyze user feedback and OPTIMIZE the user profile within a FIXED length limit.
+
+## Current User Profile
+{current_profile}
+
+## Recent Feedback Records
+{recent_feedbacks}
+
+## ⚠️ CRITICAL: Fixed Length Constraint
+- Profile MUST NOT exceed 800 characters (excluding section headers)
+- This is a HARD LIMIT - never exceed it
+- If approaching limit, COMPRESS or REPLACE less important content
+
+## Core Principles
+
+### 1. REPLACE, Don't Accumulate
+- New preferences REPLACE old ones, don't add to them
+- If user shows new interest, update existing description, don't append
+
+### 2. REFINE, Don't Expand
+When you get more evidence about an existing preference:
+- BAD: "喜欢DeFi" → "喜欢DeFi，尤其是借贷协议，特别关注Aave"（变长了）
+- GOOD: "喜欢DeFi" → "重点关注DeFi借贷，尤其Aave利率"（更精准，长度相近）
+
+### 3. Maximize Information Density
+- Every word must carry meaning
+- Remove vague descriptions, keep specific ones
+- Merge similar preferences into one precise statement
+
+### 4. Prioritize by Recency & Frequency
+- Recent feedback > old feedback
+- Repeated patterns > one-time signals
+- Strong reactions (multiple likes/dislikes) > mild ones
+
+## Analysis Logic
+1. "Like" on specific content → User likes THIS TYPE, refine the preference description
+2. "Dislike" on content → Add to dislikes OR realize a preference was wrong
+3. "Missed important info" → Current scope too narrow, broaden slightly
+4. "Too much/too noisy" → Current scope too broad, narrow down
+5. Overall positive → Profile is accurate, only minor refinements
+6. Overall negative → Profile needs significant adjustment
+
+## Output Format (Keep This Structure)
+
+[用户语言]
+(Preserve from original - ONE line only)
+
+[用户类型]
+(ONE sentence, max 50 chars)
+
+[关注领域]
+(Be SPECIFIC. Instead of listing many topics, describe the intersection/focus precisely)
+
+[内容偏好]
+(Concise. What format, depth, frequency they prefer)
+
+[明确不喜欢]
+(Only include if there's clear evidence. Keep brief)
+
+[宏观偏好]
+- Preserve from original, or adjust based on feedback
+- "high" / "medium" / "low"
+- If user often ignores macro_insights content → lower it
+- If user engages with industry big picture → raise it
+- Default: "medium"
+
+## Language
+- PRESERVE the language from original profile
+- Write in user's preferred language (中文 or English)
